@@ -35,6 +35,7 @@ Interested in creating real-world AI solutions and Handle Large amount of data
 
 # connect with me
 ![Gmail][lathikalathika1798@gmail.com]  
+
 # Quote  
 > "consistency is more important than perfection."
 
