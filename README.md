@@ -21,7 +21,7 @@ About Me
 # currently Learning
 - AI  
 - Big Data Engineering
-- cloud Basics
+- cloud Basics  
 """
 # projects
 ### 1. Delivery time Optimization  
